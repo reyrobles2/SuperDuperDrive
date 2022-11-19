@@ -129,6 +129,6 @@ You aren't required to understand hashing or encryption and that's why your tech
 All of us here at Super*Duper*Drive wish you good luck with the project!
 
 
-Acknowledgement to the following sources:
+##### Acknowledgement to the following sources:
 
 Udacity - Cognizant Full Stack Developer Nanodegree Program https://www.udacity.com/; Java https://www.java.com/; Stack Overflow https://stackoverflow.com/; GitHub users https://github.com; Baeldung https://www.baeldung.com/; Tutorialspoint https://www.tutorialspoint.com/; GeeksforGeeks https://www.geeksforgeeks.org/; javaTpoint https://www.javatpoint.com/
