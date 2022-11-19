@@ -9,3 +9,6 @@ You have been hired by SuperDuperDrive, which is a brand new company aiming to m
 
 SuperDuperDrive wants you to focus on building the web application with the skills you acquired in this course. That means you are responsible for developing the server, website, and tests, but other tasks like deployment belong to other teams at the company.
 
+Acknowledgement to the following sources:
+
+Udacity - Cognizant Full Stack Developer Nanodegree Program https://www.udacity.com/; Java https://www.java.com/; Stack Overflow https://stackoverflow.com/; GitHub users https://github.com; Baeldung https://www.baeldung.com/; Tutorialspoint https://www.tutorialspoint.com/; GeeksforGeeks https://www.geeksforgeeks.org/; javaTpoint https://www.javatpoint.com/
